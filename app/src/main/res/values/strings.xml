@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_1">1. What is the capital of Great Britain</string>
+    <string name="question_2">2. What name of this person?</string>
+    <string name="question_3">3. This company name.</string>
+    <string name="question_4">4. Select correct answers</string>
+</resources>
